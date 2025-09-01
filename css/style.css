@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(183, 170, 212);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer {
+    text-align: right;
+}
+h1 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+
+.btn-proyecto {
+  --bs-btn-color: #735b99;
+  --bs-btn-bg: rgb(123,122,222);
+  --bs-btn-border-color: #7a1a24;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #bb2d3b;
+  --bs-btn-hover-border-color: #b02a37;
+  --bs-btn-focus-shadow-rgb: 225, 83, 97;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #b02a37;
+  --bs-btn-active-border-color: #582126;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #7a2e36;
+  --bs-btn-disabled-border-color: #223177;
+}
